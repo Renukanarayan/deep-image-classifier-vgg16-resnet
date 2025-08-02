@@ -94,10 +94,8 @@ flower-image-classifier/
 ├── predict.py            # Prediction script  
 ├── cat_to_name.json      # Class name mapping (1-102 to flower names)
 ├── requirements.txt      # Python dependencies
-├── checkpoints/          # Saved model directory
 ├── flowers/              # Dataset directory
-└── notebook/
-    └── ImageClassifier.ipynb  # Development notebook
+└── ImageClassifier.ipynb  # Development notebook
 ```
 
 ## Example Output
